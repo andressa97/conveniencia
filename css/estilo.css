@@ -7,7 +7,7 @@
 }
 
 #site{
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-family: 'Bangers', cursive;
 	width: 995px;
 	margin: 0 auto;
 	padding: 6px;
@@ -25,7 +25,7 @@
 }
 
 #topo h1{
-	font-size: 25px;
+	font-size: 45px;
 	text-align: center;
 }
 
@@ -93,7 +93,6 @@
 #sidebar li:last-child{
 	border-bottom: none;
 }
-
 #publicidade{
 	margin: 10px 0;
 	border: 1px solid #ddd;
@@ -108,8 +107,7 @@
 	clear: both;
 	margin-top: 10px;
 }
-#redondo{
-	width: 150px;
-	border-radius: 75px;
-	overflow-y: hidden;
+#tituloC{
+	font-family: "Sacramento", cursive;
 }
+
